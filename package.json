@@ -1,0 +1,15 @@
+{
+  "name": "practical-js-utilss",
+  "version": "0.0.1",
+  "description": "Library that helps d",
+  "main": "lib/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "keywords": ["utils", "js", "helper", ""],
+  "author": "",
+  "license": "ISC",
+}

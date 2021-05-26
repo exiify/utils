@@ -6,11 +6,16 @@
   "scripts": {
     "test": "node test/index.js"
   },
-  "keywords": [
-    "utils",
-    "js",
-    "helper",
-  ],
+  "bugs": {
+    "url": "https://github.com/exiify/utils/issues"
+  },
+
+  "repository": {
+    "url": "https://github.com/exiify/utils.git",
+    "type": "git"
+  },
+  "homepage": "https://github.com/exiify/utils#readme",
+  "keywords": ["utils", "js", "helper", "development"],
   "author": "Kp Adeyinka",
   "license": "MIT"
 }

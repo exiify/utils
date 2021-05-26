@@ -5,7 +5,8 @@ Make development easier with this package!
 ```shell 
 npm i practical-js-utils
 ```
-
+# Help Wanted
+As you can tell there isn't a lot this package can do at the moment that is why i need people to help contribute!
 
 # Methods
 ## Array

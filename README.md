@@ -19,7 +19,7 @@ const utils = new jsUtils();
 const arr = [1, 2, 3];
 const arr2 = [1, 2, 3];
 
-const array = life.array.merge(arr, arr2);
+const array = utils.array.merge(arr, arr2);
 console.log(array);
 // returns: [ 1, 2, 3, 1, 2, 3 ]   
 ```
@@ -30,7 +30,7 @@ const utils = new jsUtils();
 
 const arr = [1, 2, 3];
 
-const array = life.array.shuffle(arr);
+const array = utils.array.shuffle(arr);
 console.log(array);
 // returns: [ 3, 2, 1]
 ```
@@ -41,7 +41,7 @@ const utils = new jsUtils();
 
 const arr = [1, 2, 3];
 
-const item = life.array.randomItem(arr);
+const item = utils.array.randomItem(arr);
 console.log(array);
 // returns: 2
 ```
@@ -53,7 +53,7 @@ const utils = new jsUtils();
 const arr = [1, 2, 3];
 const arr2 = [1, 2, 3];
 
-const item = life.array.isSame(arr, arr2);
+const item = utils.array.isSame(arr, arr2);
 console.log(array);
 // returns: true
 ```

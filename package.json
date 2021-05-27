@@ -1,3 +1,4 @@
+
 {
   "name": "practical-js-utils",
   "version": "0.0.4",
@@ -10,9 +11,9 @@
     "url": "https://github.com/exiify/utils/issues"
   },
 
-  "repository":"git://github.com/exiify/utils.git",
-  "publishConfig": {
-    "registry":"https://npm.pkg.github.com"
+  "repository": {
+    "url": "https://github.com/exiify/utils.git",
+    "type": "git"
   },
   "homepage": "https://github.com/exiify/utils#readme",
   "keywords": ["utils", "js", "helper", "development"],

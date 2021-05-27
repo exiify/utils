@@ -1,4 +1,3 @@
-
 {
   "name": "practical-js-utils",
   "version": "0.0.4",
@@ -7,16 +6,23 @@
   "scripts": {
     "test": "node test/index.js"
   },
+  "files": [
+    "/lib"
+  ],
   "bugs": {
     "url": "https://github.com/exiify/utils/issues"
   },
-
   "repository": {
     "url": "https://github.com/exiify/utils.git",
     "type": "git"
   },
   "homepage": "https://github.com/exiify/utils#readme",
-  "keywords": ["utils", "js", "helper", "development"],
+  "keywords": [
+    "utils",
+    "js",
+    "helper",
+    "development"
+  ],
   "author": "Kp Adeyinka",
   "license": "MIT"
 }

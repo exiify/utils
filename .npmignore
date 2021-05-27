@@ -1,0 +1,5 @@
+.github/
+.upm/
+test/
+.prettierrc.json
+.replit

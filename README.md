@@ -57,3 +57,27 @@ const item = utils.array.isSame(arr, arr2);
 console.log(item);
 // returns: true
 ```
+## String
+### Remove a keyword from a string
+```js
+const jsUtils = require("../lib/index")
+
+const utils = new jsUtils()
+
+const string ="I love cake cake"
+const item = utils.string.removeKeyword(string, "cake")
+console.log(item)
+//returns: I love
+```
+
+### Replace a keyword from a string
+```js
+const jsUtils = require("../lib/index")
+
+const utils = new jsUtils()
+
+const string ="I love cake"
+const item = utils.string.replaceKeyword(string, "cake", "rice")
+console.log(item)
+// returns: I love rice
+```

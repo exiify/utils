@@ -42,7 +42,7 @@ const utils = new jsUtils();
 const arr = [1, 2, 3];
 
 const item = utils.array.randomItem(arr);
-console.log(array);
+console.log(item);
 // returns: 2
 ```
 ### See if two arrays are the same
@@ -54,6 +54,6 @@ const arr = [1, 2, 3];
 const arr2 = [1, 2, 3];
 
 const item = utils.array.isSame(arr, arr2);
-console.log(array);
+console.log(item);
 // returns: true
 ```

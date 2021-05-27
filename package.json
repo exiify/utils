@@ -1,6 +1,6 @@
 {
   "name": "practical-js-utils",
-  "version": "0.0.5",
+  "version": "0.0.3",
   "description": "Libary that makes development easier",
   "main": "lib/index.js",
   "scripts": {

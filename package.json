@@ -10,7 +10,7 @@
     "url": "https://github.com/exiify/utils/issues"
   },
 
-  "repository":"git://github.com/exiify/utils.git"
+  "repository":"git://github.com/exiify/utils.git",
   "publishConfig": {
     "registry":"https://npm.pkg.github.com"
   },

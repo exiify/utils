@@ -1,6 +1,6 @@
 {
   "name": "practical-js-utils",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Libary that makes development easier",
   "main": "lib/index.js",
   "scripts": {
@@ -13,6 +13,9 @@
   "repository": {
     "url": "https://github.com/exiify/utils.git",
     "type": "git"
+  },
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
   },
   "homepage": "https://github.com/exiify/utils#readme",
   "keywords": ["utils", "js", "helper", "development"],
